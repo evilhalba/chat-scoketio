@@ -12,3 +12,5 @@ node server.js
 ```
 
 e acesse o localhost na sua maquina na porta 3000: http://localhost:3000/
+
+Video do aprendizado: https://www.youtube.com/watch?v=-jXfKDYJJvo&ab_channel=Rocketseat
