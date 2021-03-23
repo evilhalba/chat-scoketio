@@ -1,16 +1,18 @@
 # chat-scoketio
-A ideia é ser um chat simples em realtime, nem banco de dados usa, somente para aprendizado sobre a biblioteca do Socket.io
 
-para instalar basta realizar o comando 
+The idea of the project is just a simple chat realtime, using the libary Socket.io, all the chat messages are saved in an array just for test.
+
+
+for install put the command:
 ```javascript
 yarn
 ```
 
-e para executar 
+and for execute:
 ```javascript
 node server.js 
 ```
 
-e acesse o localhost na sua maquina na porta 3000: http://localhost:3000/
+and access the localhost on port 3000: http://localhost:3000/
 
-Video do aprendizado: https://www.youtube.com/watch?v=-jXfKDYJJvo&ab_channel=Rocketseat
+Video tutorial(used for learning about socket.io chat): https://www.youtube.com/watch?v=-jXfKDYJJvo&ab_channel=Rocketseat
